@@ -32,6 +32,7 @@ Mean Squared Error (MSE)
 Performance was acceptable across all parameters
 
 Model link:
+model have been uploaded in the drive and the link is given below.
 https://drive.google.com/file/d/1Z08IWu1RHIsew1M8s8OWdWqR0bWLDEHl/view?usp=drive_link
 
 Internship Details
