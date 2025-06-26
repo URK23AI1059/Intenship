@@ -70,9 +70,9 @@ The model was evaluated using:
 
 ---
 
-## 📎 Project Link
+## 📎 Model Link
 
-You can explore the full project notebook and model here:  
+You can explore the Model here:  
 👉 [Click to view the model](https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing)
 
 ---
